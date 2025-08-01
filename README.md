@@ -18,9 +18,10 @@ In this project I developed an Arabic-speaking voice assistant that listens to y
 - [_**PyDub**_] for audio playback
 
 ## How to run
-1. Install dependencies: `pip install -r requirements.txt`
-2. Download FFmpeg: https://ffmpeg.org/
-3. Run chatbot.py
+1. Install dependencies: `pip install -r requirements.txt`.
+2. Download FFmpeg: https://ffmpeg.org/.
+3. Replace _"COHERE_API_KEY_HERE"_ in `chatbot.py` with your actual API Key.
+4. Run `chatbot.py`.
 
 ## Demo
 

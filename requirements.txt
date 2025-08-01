@@ -1,0 +1,5 @@
+openai-whisper
+cohere
+gtts
+pydub
+pyaudio
